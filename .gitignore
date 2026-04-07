@@ -1,0 +1,4 @@
+lamoda_dataset/
+lamoda_checkpoints/
+__pycache__/
+*.pyc
