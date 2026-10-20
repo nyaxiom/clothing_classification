@@ -2,3 +2,5 @@ lamoda_dataset/
 lamoda_checkpoints/
 __pycache__/
 *.pyc
+.venv/
+.ipynb_checkpoints/
